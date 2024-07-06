@@ -1,6 +1,6 @@
 # Inglaterra
 
-![united kingdom flag](/england-flag.webp)
+![united kingdom flag](england-flag.webp)
 
 Potencia naval
 
@@ -16,13 +16,13 @@ Inglaterra tiene una excelente posición defensiva pero perspectivas de expansi�
 
 **Alemania**
 
-![german flag](/germany-flag.webp)
+![german flag](germany-flag.webp)
 
 Una alianza entre Inglaterra y Alemania no es tan difícil de mantener como una entre Austria y Turquía, pero tampocó será fácil. Al aliarse con Alemania Inglaterra debe moverse hacia el sur, sin embargo no puede evitar enfrentar a rusia en el norte, dejando la retaguardia Alemana completamente rodeada.
 
 **Francia**
 
-![french flag](/france-flag.webp)
+![french flag](france-flag.webp)
 
 Una alianza entre Francia e Inglaterra puede ser beneficiosa, pero puede favorecer a Francia a la larga.
 
@@ -30,9 +30,9 @@ Cualquiera sea el aliado, Inglaterra puede llegar a capturar Bélgica.
 
 **Italia y Rusia**
 
-![italian flag](/italy-flag.png)
+![italian flag](italy-flag.png)
 
-![russian flag](/russia-flag.webp)
+![russian flag](russia-flag.webp)
 
 Inglaterra puede permitirse jugar pacientemente hasta que Italia o Rusia lleguen a occidente para atacar a Francia o Alemania. En cualquier caso, Inglaterra no debe quedarse atrás en la captura de territorios, de lo contrario podría ser aplastada por su ex aliado e Italia/Rusia.
 

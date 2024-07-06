@@ -11,12 +11,12 @@ export class FactionsService {
     constructor() {
         this.factionContent = {
             austria: 'austria-strategy-guide.md',
-            england: 'england-strategy-guide.md',
-            france: 'england-strategy-guide.md',
-            germany: 'england-strategy-guide.md',
-            italy: 'england-strategy-guide.md',
-            russia: 'england-strategy-guide.md',
-            turkey: 'england-strategy-guide.md',
+            inglaterra: 'england-strategy-guide.md',
+            francia: 'england-strategy-guide.md',
+            alemania: 'england-strategy-guide.md',
+            italia: 'england-strategy-guide.md',
+            rusia: 'england-strategy-guide.md',
+            turquia: 'england-strategy-guide.md',
         }
 
         this.factionNames = Object.keys(this.factionContent);

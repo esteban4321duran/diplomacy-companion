@@ -1,6 +1,6 @@
 # Austria
             
-![austro-hungarian empire flag](/austria-flag.png)
+![austro-hungarian empire flag](austria-flag.png)
 
 Potencia terrestre
 
@@ -16,15 +16,15 @@ Austria es el más vulnerable al comienzo de la partida. Tú más que nadie debe
 
 **Turquía**
 
-![turkish flag](/turkey-flag.webp)
+![turkish flag](turkey-flag.webp)
 
 Turquía y Austria casi siempre serán enemigos. Si se alían, Austria está en gran desventaja. Turquía podría llegar a controlar territorios en tres regiones (El Mediterráneo, Los Balcanes y Rusia). En este punto, Austria es un blanco fácil.
 
 **Italia y Rusia**
 
-![italian flag](/italy-flag.png)
+![italian flag](italy-flag.png)
 
-![russian flag](/russia-flag.webp)
+![russian flag](russia-flag.webp)
 
 Italia y sobre todo Rusia son tus mejores posibles aliados.
 
@@ -32,7 +32,7 @@ Si Rusia y Turquía se alían, Austria puede convencer fácilmente a Italia de q
 
 **Alemania**
 
-![german flag](/germany-flag.webp)
+![german flag](germany-flag.webp)
 
 Alemania casi siempre aceptará un pacto de no agresión. Austria no debería desperdiciar sus ejércitos en occidente.
 
