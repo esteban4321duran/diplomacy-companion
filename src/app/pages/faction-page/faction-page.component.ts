@@ -14,7 +14,7 @@ import {MarkdownComponent, MarkdownService} from "ngx-markdown";
 })
 export class FactionPageComponent implements OnInit {
 
-    pageContent = "";
+    contentSrc: string|null = "";
 
     constructor(private factionsService: FactionsService, private activatedRoute: ActivatedRoute) {
 
@@ -22,7 +22,7 @@ export class FactionPageComponent implements OnInit {
     ngOnInit(): void {
         this.activatedRoute.queryParams.subscribe((params: Params) => {
             const factionName = params['factionName'];
-            this.pageContent = this.factionsService.getFactionText(factionName);
+            this.contentSrc = this.factionsService.getFactionContentSrc(factionName);
         })
     }
 

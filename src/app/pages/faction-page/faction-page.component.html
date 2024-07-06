@@ -1,3 +1,8 @@
 <main class="px-1">
-    <markdown ngPreserveWhitespaces [data]="pageContent"></markdown>
+    @if (contentSrc === null) {
+        <h1>Not found</h1>
+        
+        <p>No se encontró el contenido solitado.</p>
+    }
+    <markdown ngPreserveWhitespaces [src]="contentSrc"></markdown>
 </main>
