@@ -4,5 +4,5 @@ import { FactionPageComponent } from './pages/faction-page/faction-page.componen
 
 export const routes: Routes = [
     { path: "", component: HomePageComponent },
-    { path: "factions", component: FactionPageComponent },
+    { path: "factions/:factionName", component: FactionPageComponent },
 ]

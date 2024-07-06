@@ -6,7 +6,7 @@
     <mat-toolbar>Potencias</mat-toolbar>
     <mat-nav-list>
       @for (name of factionNames; track name) {
-      <a mat-list-item routerLink="/factions" [queryParams]="{factionName: name}"
+      <a mat-list-item [routerLink]="['/factions',name]"
         routerLinkActive="active" ariaCurrentWhenActive="page">{{name | titlecase}}</a>
       }
     </mat-nav-list>

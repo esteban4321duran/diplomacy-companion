@@ -20,7 +20,7 @@ export class FactionPageComponent implements OnInit {
 
     }
     ngOnInit(): void {
-        this.activatedRoute.queryParams.subscribe((params: Params) => {
+        this.activatedRoute.params.subscribe((params: Params) => {
             const factionName = params['factionName'];
             this.contentSrc = this.factionsService.getFactionContentSrc(factionName);
         })
