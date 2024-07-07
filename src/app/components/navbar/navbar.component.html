@@ -3,12 +3,15 @@
     [attr.role]="(isHandset$ | async) ? 'dialog' : 'navigation'"
     [mode]="(isHandset$ | async) ? 'over' : 'side'"
     [opened]="(isHandset$ | async) === false">
-    <mat-toolbar>Potencias</mat-toolbar>
+    <mat-toolbar>Menú</mat-toolbar>
     <mat-nav-list>
       @for (name of factionNames; track name) {
       <a mat-list-item [routerLink]="['/factions',name]"
         routerLinkActive="active" ariaCurrentWhenActive="page">{{name | titlecase}}</a>
       }
+      <hr>
+      <a mat-list-item [routerLink]="['/date-counter']"
+        routerLinkActive="active" ariaCurrentWhenActive="page">Date Counter</a>
     </mat-nav-list>
   </mat-sidenav>
   <mat-sidenav-content>
